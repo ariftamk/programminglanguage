@@ -1,0 +1,3 @@
+Average Temperature: 17.10
+Maximum Temperature: 22.70
+Minimum Temperature: 10.00
